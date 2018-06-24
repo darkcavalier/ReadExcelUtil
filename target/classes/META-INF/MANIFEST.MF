@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: attendance
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: zouyi
+Implementation-Vendor-Id: com.zsf
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/attendance/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
